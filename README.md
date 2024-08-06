@@ -33,7 +33,7 @@ You can find the App dependencies, sub-dependencies, installation paths and thei
 
 ## Try it yourself
 **Since actions speak more than words, I recommend you to download the App on your phone to understand its features even better.
-Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for Android. For IOS, I am currently unable to distribute it in the App Store.
+Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for Android. For IOS, I am currently unable to distribute it in the App Store.**
 
 [**Download Pictorica APK 1.0.0**](https://drive.google.com/drive/folders/1rqd9TlPkKXGptSOiWt1CGFisUjdFCSrh?usp=sharing)
 
