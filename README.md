@@ -8,7 +8,7 @@
 
 ## Contents
 
-1. [Technologies Used]()
+1. [Tech Stack](https://github.com/hy-atharv/Pictorica/blob/main/README.md#tech-stack-used-in-pictorica)
 2. [Demonstration]()
 3. [Installation]()
 4. [Documentation]()
