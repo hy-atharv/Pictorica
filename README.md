@@ -1,6 +1,7 @@
 # Pictorica - Where Every Picture Tells a Story!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/141ad5b9-650a-4725-bbaf-8739e9b9bfd7"  width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/debf329b-e421-4164-a29b-0ed536ccd70d"  width="320" height="320">
 </p>
+
 
