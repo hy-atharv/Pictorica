@@ -1,1 +1,1 @@
-export const geminiKey = 'AIzaSyCkdEp9g13n294WIvxjqXh5W9n_KUCmRqg'
+export const geminiKey = process.env.GEMINI_API_KEY
