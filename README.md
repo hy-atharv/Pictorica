@@ -10,8 +10,8 @@
 
 1. [Tech Stack](https://github.com/hy-atharv/Pictorica/blob/main/README.md#tech-stack-used-in-pictorica)
 2. [Demonstration](https://github.com/hy-atharv/Pictorica/blob/main/README.md#demonstration)
-3. [Installation]()
-4. [Documentation]()
+3. [Installation](https://github.com/hy-atharv/Pictorica/blob/main/README.md#try-it-yourself)
+4. [Documentation](https://github.com/hy-atharv/Pictorica/blob/main/README.md#documentation)
 
 ## Tech Stack Used in Pictorica
 
