@@ -16,7 +16,7 @@
 - [Firebase Cloud Firestore](https://firebase.google.com/docs/firestore)
 - [Firebase Cloud Storage](https://firebase.google.com/docs/storage)
 
-And lastly, the important one, [**The Gemini API**](https://ai.google.dev/gemini-api) that acts as the AI Powerhouse of Pictorica!
+And lastly, The Gemini API**](https://ai.google.dev/gemini-api) that acts as the AI Powerhouse of Pictorica!
 
 You can find the App dependencies, sub-dependencies, installation paths and their compatible versions in the [package-lock.json](https://github.com/hy-atharv/Pictorica/blob/main/package-lock.json)
 
