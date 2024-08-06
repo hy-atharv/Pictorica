@@ -13,7 +13,7 @@
 3. [Installation](https://github.com/hy-atharv/Pictorica/blob/main/README.md#try-it-yourself)
 4. [Documentation](https://github.com/hy-atharv/Pictorica/blob/main/README.md#documentation)
 
-## Tech Stack Used in Pictorica
+## ⚙️Tech Stack Used in Pictorica
 
 - [React Native](https://reactnative.dev)
 - [Expo SDK](https://docs.expo.dev/versions/latest/)
@@ -28,7 +28,7 @@ And lastly, [**The Gemini API**](https://ai.google.dev/gemini-api) that acts as 
 You can find this App's dependencies, sub-dependencies, installation paths and their compatible versions in the [package-lock.json](https://github.com/hy-atharv/Pictorica/blob/main/package-lock.json)
 
 
-## Demonstration
+## ▶️Demonstration
 **Watch the Video to see the App in action!**
 
 <p align="center">
@@ -38,13 +38,13 @@ You can find this App's dependencies, sub-dependencies, installation paths and t
 </p>
 
 
-## Try it yourself
+## ⬇️Try it yourself
 **Since actions speak more than words, I recommend you to download the App on your phone to understand its features even better.
 Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for Android. For IOS, I am currently unable to distribute it in the App Store.**
 
 [**Download Pictorica APK 1.0.0**](https://drive.google.com/drive/folders/1rqd9TlPkKXGptSOiWt1CGFisUjdFCSrh?usp=sharing)
 
-# Documentation
+# 📜Documentation
 
 
 
