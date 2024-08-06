@@ -1,4 +1,4 @@
-# Pictorica - Where Every Picture Tells a Story!
+# 🎑📖Pictorica - Where Every Picture Tells a Story!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5875cf4d-d407-4fef-b3b2-01aaf63e32cf"  width="354" height="629">
