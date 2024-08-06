@@ -18,9 +18,9 @@
 
 And lastly, the important one, [**The Gemini API**](https://ai.google.dev/gemini-api) thats acts as the AI Powerhouse of Pictorica!
 
-## Installation 
+## Demonstration
 
-![Pictorica_SplashScreen](https://github.com/user-attachments/assets/debf329b-e421-4164-a29b-0ed536ccd70d)
+[![Pictorica_SplashScreen](https://github.com/user-attachments/assets/debf329b-e421-4164-a29b-0ed536ccd70d)](https://youtu.be/BlGpkClaqrA?feature=shared)
 
 
 
