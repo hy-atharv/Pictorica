@@ -1,0 +1,1 @@
+export const geminiKey = 'AIzaSyCkdEp9g13n294WIvxjqXh5W9n_KUCmRqg'

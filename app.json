@@ -1,27 +1,64 @@
 {
   "expo": {
-    "name": "SampleApp",
-    "slug": "SampleApp",
+    "name": "Pictorica",
+    "slug": "pictorica",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Pictorica_AppIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Pictorica_SplashScreen.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hyatharv.pictorica"
     },
+    
     "android": {
+      
+        "intentFilters": [
+          {
+            "action": "VIEW",
+            "autoVerify":true,
+            "data": [
+              {
+                "scheme": "https",
+                "host": "pictorica.com"
+              },
+              {
+                "scheme": "https",
+                "host": "www.pictorica.com"
+              }
+            ]
+          }
+        ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/Pictorica_AppIcon.png",
+        "backgroundColor": "#000320"
+      },
+      "package": "com.hyatharv.pictorica",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/Pictorica_AppIcon.png",
+          "color": "#ffffff",
+          "defaultChannel": "default"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "374312d2-ea0e-45d3-b24e-874f65be8e9e"
+      }
+    },
+    "owner": "hy-atharv"
   }
 }
