@@ -6,7 +6,7 @@
 
 **Pictorica - Where Every Picture Tells a Story** is a groundbreaking app that allows anyone, with just a picture, a rough story idea, and perhaps an author's name, to craft creative stories like a seasoned author. Users can publish their stories or keep them private on their shelf. They can browse through a vast library of stories in various genres, read them, or immerse themselves by listening, and can even chat with the main characters of the stories. Stories can be liked or saved for reading them later.
 
-## Contents
+## 𝌞Contents
 
 1. [Tech Stack](https://github.com/hy-atharv/Pictorica/blob/main/README.md#tech-stack-used-in-pictorica)
 2. [Demonstration](https://github.com/hy-atharv/Pictorica/blob/main/README.md#demonstration)
