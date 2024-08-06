@@ -50,8 +50,9 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 2. [Firebase Authentication]()
 3. [Cloud Firestore Schema]()
 4. [Cloud Storage Schema]()
-5. [Gemini API Features]()
-6. [Feature Requiring Contributions]()
+5. [General Features]()
+6. [Gemini API Features]()
+7. [Feature Requiring Contributions]()
 
 
 
