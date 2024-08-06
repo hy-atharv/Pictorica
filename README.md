@@ -21,7 +21,11 @@ And lastly, the important one, [**The Gemini API**](https://ai.google.dev/gemini
 ## Demonstration
 **Watch the Video to see the App in action!**
 
-[![Pictorica_SplashScreen](https://github.com/user-attachments/assets/debf329b-e421-4164-a29b-0ed536ccd70d)](https://youtu.be/BlGpkClaqrA?feature=shared)
+<p align="center">
+  <a href="https://youtu.be/BlGpkClaqrA?feature=shared">
+    <img src="https://github.com/user-attachments/assets/debf329b-e421-4164-a29b-0ed536ccd70d" alt="Pictorica_SplashScreen" width="640" height="360">
+  </a>
+</p>
 
 
 
