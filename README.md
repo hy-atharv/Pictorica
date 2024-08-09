@@ -66,6 +66,32 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 </p>
 
 
+## Firebase Authentication
+
+In the [**Firebase**](https://github.com/hy-atharv/Pictorica/tree/main/Firebase) Folder,
+You can find 3 files:
+
+1. [**firebaseConfig.js**](https://github.com/hy-atharv/Pictorica/blob/main/Firebase/firebaseConfig.js)
+
+`firebaseConfig` initializes your Firebase App and its instance is stored in `app` which is exported for use in other code files.
+
+With `app` Firestore is initialized with a Firestore setting:
+
+`experimentalAutoDetectLongPolling:true`: 
+This setting configures the SDK's underlying transport (WebChannel) to automatically detect if long-polling should be used. This is very similar to `experimentalForceLongPolling`, but only uses long-polling if required.
+
+Firestore's instance is stored in `db` which is exported for use in other code files.
+
+Authentication is initialized by `app` with the `persistence` property as:
+`persistence: getReactNativePersistence(AsyncStorage)`
+
+With the `AsyncStorage` and `getReactNativePersistence`, app's authentication state is persisted.
+
+
+
+
+
+
 
 
 
