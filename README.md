@@ -52,7 +52,7 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 1. [Structure of App Codebase](https://github.com/hy-atharv/Pictorica/tree/main#structure-of-app-codebase)
 2. [Firebase Authentication](https://github.com/hy-atharv/Pictorica/tree/main#firebase-authentication)
 3. [Cloud Firestore Schema](https://github.com/hy-atharv/Pictorica/tree/main#cloud-firestore-schema)
-4. [Cloud Storage Schema]()
+4. [Cloud Storage Schema](https://github.com/hy-atharv/Pictorica/tree/main#cloud-storage-schema)
 5. [General Features]()
 6. [Gemini API Features]()
 7. [Feature Requiring Contributions]()
