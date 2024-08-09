@@ -49,7 +49,7 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 
 # 📜Documentation
 
-1. [Structure of App Codebase]()
+1. [Structure of App Codebase](https://github.com/hy-atharv/Pictorica/edit/main/README.md#structure-of-app-codebase)
 2. [Firebase Authentication]()
 3. [Cloud Firestore Schema]()
 4. [Cloud Storage Schema]()
@@ -62,7 +62,7 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/602c5d95-e23b-4214-a36e-7e0c243f23d2"  width="640" height="360">
+    <img src="https://github.com/user-attachments/assets/602c5d95-e23b-4214-a36e-7e0c243f23d2"  width="640" height="580">
 </p>
 
 
