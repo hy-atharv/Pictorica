@@ -84,6 +84,7 @@ This setting configures the SDK's underlying transport (WebChannel) to automatic
 Firestore's instance is stored in `db` which is exported for use in other code files.
 
 Authentication is initialized by `app` with the `persistence` property as:
+
 `persistence: getReactNativePersistence(AsyncStorage)`
 
 With the `AsyncStorage` and `getReactNativePersistence`, app's authentication state is persisted.
