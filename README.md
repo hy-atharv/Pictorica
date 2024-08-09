@@ -126,7 +126,7 @@ Firestore can also be utilised for storing low dimensional **Vector Embeddings**
 
 For the case of Pictorica, the Gemini API's `text-embedding-004` model gives a 768 Dimensional Array of Vector Embeddings which can be efficiently stored for each story document as an Array.
 
-We'll discuss more about the **Story Embeddings** in the **Gemini API Features Section**.
+We'll discuss more about the **Story Embeddings** in the **Gemini API Features** Section.
 
 
 <p align="center">
