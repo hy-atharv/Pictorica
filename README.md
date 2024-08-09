@@ -89,6 +89,20 @@ Authentication is initialized by `app` with the `persistence` property as:
 
 With the `AsyncStorage` and `getReactNativePersistence`, app's authentication state is persisted.
 
+2. [**firebaseRegister.js**](https://github.com/hy-atharv/Pictorica/blob/main/Firebase/firebaseRegister.js)
+
+With the Firestore instance `db` the asynchronous function `createUser(email, password, username)` creates a user with email and password and updates the user's profile by setting the `displayName` property's value to `username`
+
+`await sendEmailVerification(user)` sends an email to the user, when user verifies his email by clicking on the link received in mail, in firestore, a document is created in the collection **users** with the id as `user.uid` and initializes a Map:
+
+`{
+  username: username,
+  followers:0,
+  aboutMe:'',
+  pfpURL:'',
+}`
+
+Any other sign up error is caught in the `catch` block and prompts the user.
 
 
 
