@@ -114,6 +114,41 @@ Any other sign in error is caught in the `catch` block and prompts the user.
 
 ## Cloud Firestore Schema
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4cd1c057-5629-42f3-a42f-e482d9c3fc0a"  width="640" height="420">
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/6297a12f-9464-4757-a97a-5217f40c9f68"  width="640" height="420">
+</p>
+
+Firestore can also be utilised for storing low dimensional **Vector Embeddings**.
+
+For the case of Pictorica, the Gemini API's `text-embedding-004` model gives a 768 Dimensional Array of Vector Embeddings which can be efficiently stored for each story document as an Array.
+
+We'll discuss more about the **Story Embeddings** in the **Gemini API Features Section**.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5b1351bb-0a89-45a6-97f3-0a439f20fd98"  width="640" height="420">
+</p>
+
+A new collection with the id `username` is created for each user when a user crafts his first story or when he saves a story from the library for the first time.
+
+The crafted stories are stored in the document **your works** and the saved stories are stored in the document **saved**.
+
+These stories appear in the Shelf of each user, categorized as **Read Later** and **Your Works**.
+
+
+## Cloud Storage Schema
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/48b14936-1560-4034-b5e7-9644004783c2"  width="640" height="570">
+</p>
+
+
+
+
+
 
 
 
