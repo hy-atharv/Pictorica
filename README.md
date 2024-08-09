@@ -77,7 +77,8 @@ You can find 3 files:
 
 With `app` Firestore is initialized with a Firestore setting:
 
-`experimentalAutoDetectLongPolling:true`: 
+`experimentalAutoDetectLongPolling:true`
+
 This setting configures the SDK's underlying transport (WebChannel) to automatically detect if long-polling should be used. This is very similar to `experimentalForceLongPolling`, but only uses long-polling if required.
 
 Firestore's instance is stored in `db` which is exported for use in other code files.
