@@ -128,6 +128,7 @@ For the case of Pictorica, the Gemini API's `text-embedding-004` model gives a 7
 
 We'll discuss more about the **Story Embeddings** in the **Gemini API Features Section**.
 
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5b1351bb-0a89-45a6-97f3-0a439f20fd98"  width="640" height="420">
 </p>
