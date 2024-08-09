@@ -91,7 +91,7 @@ With the `AsyncStorage` and `getReactNativePersistence`, app's authentication st
 
 2. [**firebaseRegister.js**](https://github.com/hy-atharv/Pictorica/blob/main/Firebase/firebaseRegister.js)
 
-With the Firestore instance `db` the asynchronous function `createUser(email, password, username)` creates a user with email and password and updates the user's profile by setting the `displayName` property's value to `username`
+The asynchronous function `createUser(email, password, username)` creates a user with email and password and updates the user's profile by setting the `displayName` property's value to `username`
 
 `await sendEmailVerification(user)` sends an email to the user, when user verifies his email by clicking on the link received in mail, in firestore, a document is created in the collection **users** with the id as `user.uid` and initializes a Map:
 
@@ -103,6 +103,17 @@ With the Firestore instance `db` the asynchronous function `createUser(email, pa
 }`
 
 Any other sign up error is caught in the `catch` block and prompts the user.
+
+3. [**firebaseLogin.js**](https://github.com/hy-atharv/Pictorica/blob/main/Firebase/firebaseLogin.js)
+
+
+The asynchronous function `signIn(email, password)` signs in an existing user to the app with the email and password.
+
+Any other sign in error is caught in the `catch` block and prompts the user.
+
+
+## Cloud Firestore Schema
+
 
 
 
