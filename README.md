@@ -300,6 +300,34 @@ For Reference, you can have a look at the [GemCharChat.js](https://github.com/hy
 
 This is my personal favourite feature and I believe all social media apps should have a **Context Based Search/Semantic Retrieval** rather than a normal Keyword Search.
 
+The Gemini API offers two models that generate text embeddings: Text Embeddings and Embeddings. Text Embeddings is an updated version of the Embedding model that offers elastic embedding sizes under 768 dimensions.
+
+For Pictorica, the `text-embedding-004` model gives a 768 Dimensional Array of Vector Embeddings that are stored as an Array in the Firestore for each Story.
+
+For Reference, you can have a look at the [GemStoryEmbeds.js](https://github.com/hy-atharv/Pictorica/blob/main/GeminiAI/GemStoryEmbeds.js)
+
+
+
+Text embeddings are a natural language processing (NLP) technique that converts text into numerical coordinates (called vectors) that can be plotted in an n-dimensional space. This approach lets you treat pieces of text as bits of relational data, which we can then train models on.
+
+Embeddings capture semantic meaning and context which results in text with similar meanings having closer embeddings. For example, the sentence "I took my dog to the vet" and "I took my cat to the vet" would have embeddings that are close to each other in the vector space since they both describe a similar context.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d69fec16-b0c7-4e13-888b-956cf52f81ec"  width="540" height="360">
+</p>
+
+
+You can use embeddings to compare different texts and understand how they relate. For example, if the embeddings of the text "cat" and "dog" in 2-Dimensional space are close together with that of "kitten" and "puppy" you can infer that these words are similar in meaning or context or both. While the embeddings of "helicopter" are relatively far away from them as it should be.
+
+
+The 768-Dimensional Vector Embeddings of the Stories in the Firestore are compared against the same Dimensional Vector Embeddings of the Search Query ([GemSearchEmbeds.js](https://github.com/hy-atharv/Pictorica/blob/main/GeminiAI/GemSearchEmbeds.js)) using the **Cosine Similarity Measure**, that returns a value between `-1` and `1`.
+
+`-1` represents that the 2 Vectors are in opposite direction. `1` represents that the 2 Vectors are in same direction.
+
+The similarity scores are sorted and the Top 5 stories with most similarity are retrieved from the Firestore and are shown to the user as Relevant Results.
+
+For Reference you can have a look at the [SearchStory.js](https://github.com/hy-atharv/Pictorica/blob/main/components/TabScreens/Routes/LibraryRoute/SearchStory.js)
+
 
 
 
