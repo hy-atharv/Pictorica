@@ -298,7 +298,7 @@ For Reference, you can have a look at the [GemCharChat.js](https://github.com/hy
 
 
 
-This is my personal favourite feature and I believe all social media apps should have a **Context Based Search/Semantic Retrieval** rather than a normal Keyword Search.
+This is my personal favourite feature and I believe all social media apps should have a **Context Based Search/Semantic Retrieval** rather than a normal Keyword Search. Generally, we might encounter content that we found interesting but **we forgot its Title, its Characters and are left with no records except its memories of what actually happens in it or just a rough idea of the events that occured in it**. In that case, **Semantic Search** acts as a **lifesaver** and helps us find the content just with whatever we **remember about it**.
 
 The Gemini API offers two models that generate text embeddings: Text Embeddings and Embeddings. Text Embeddings is an updated version of the Embedding model that offers elastic embedding sizes under 768 dimensions.
 
@@ -327,6 +327,22 @@ The 768-Dimensional Vector Embeddings of the Stories in the Firestore are compar
 The similarity scores are sorted and the Top 5 stories with most similarity are retrieved from the Firestore and are shown to the user as Relevant Results.
 
 For Reference you can have a look at the [SearchStory.js](https://github.com/hy-atharv/Pictorica/blob/main/components/TabScreens/Routes/LibraryRoute/SearchStory.js)
+
+
+
+5. **Your Works Impressions and Likes, and Performance analysed by the Gemini**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1622df8-a380-4cef-997f-8eb5f001bd2b"  width="236" height="419">
+</p>
+
+Gemini with large context window can analyze all the content in the Library and their analytics for you, and helps you with the Insights on your content compared to the best performing content and enables you to improvise on your content to rank better in the Library.
+
+For Reference, you can have a look at the [GemInsights.js](https://github.com/hy-atharv/Pictorica/blob/main/GeminiAI/GemInsights.js)
+
+
+
+
 
 
 
