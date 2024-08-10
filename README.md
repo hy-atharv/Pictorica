@@ -149,7 +149,7 @@ These stories appear in the Shelf of each user, categorized as **Read Later** an
 
 ## General Features
 
-Pictorica offers most of the common features that any other social media app would offer.
+Other than **creating, reading and listening to Stories**, Pictorica also offers most of the common features that any other social media app would offer.
 
 
 1. **Profile Page with Analytics**
@@ -234,8 +234,11 @@ Pictorica offers most of the common features that any other social media app wou
 ## Gemini API Features
 
 
+1. **Story Ideas Generation based on Picture and Genre**
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24c1b839-b330-4811-8d32-4c14e80f7bf8"  width="236" height="419">
+</p>
 
 
 
