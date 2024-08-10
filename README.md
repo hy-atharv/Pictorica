@@ -55,7 +55,7 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 4. [Cloud Storage Schema](https://github.com/hy-atharv/Pictorica/blob/main/README.md#cloud-storage-schema)
 5. [General Features](https://github.com/hy-atharv/Pictorica/blob/main/README.md#general-features)
 6. [Gemini API Features](https://github.com/hy-atharv/Pictorica/blob/main/README.md#gemini-api-features)
-7. [Feature Requiring Contributions](https://github.com/hy-atharv/Pictorica/blob/main/README.md#feature-requiring-contributions)
+
 
 
 ## Structure of App Codebase
@@ -193,16 +193,40 @@ Pictorica offers most of the common features that any other social media app wou
 
 
 
-7. **Upload privately/Keep in Shelf** or **Upload publicly/Publish in Library**
+6. **Upload privately/Keep in Shelf** or **Upload publicly/Publish in Library**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/275fa9d2-09e2-4e4c-9496-7f14050ce9be"  width="236" height="419">
+  
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b9adc9b-431e-4d6c-9bfc-b70f93db8164"  width="236" height="419">
+  <img src="https://github.com/user-attachments/assets/4e33bc13-32c0-43ea-8b83-90b83ab6f726"  width="236" height="419">
+</p>
 
 
-8. **Your Published Works Analytics and Performance**
 
 
-9. **Share this App**
+7. **Your Published Works Analytics and Performance**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e949e64e-55f8-44ac-adc2-f4d286d4e914"  width="236" height="419">
+</p>
 
 
-10. **Send Feedback**
+
+8. **Share this App**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5792f155-bcd8-4cea-97d7-f9b89e995f22"  width="236" height="419">
+</p>
+
+
+9. **Send Feedback**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0ef7337-b882-4d9b-a2a2-15d2869454a5"  width="236" height="419">
+</p>
 
 
 
@@ -210,7 +234,6 @@ Pictorica offers most of the common features that any other social media app wou
 ## Gemini API Features
 
 
-## Feature Requiring Contributions
 
 
 
