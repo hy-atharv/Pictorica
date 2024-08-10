@@ -176,10 +176,21 @@ Pictorica offers most of the common features that any other social media app wou
 </p>
 
 
-5. **Save to Read Later**
+4. **Save to Read Later**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc6adac6-bb9e-43ef-9be2-2e09cabbad06"  width="236" height="419">
+  <img src="https://github.com/user-attachments/assets/bcb1c774-eb6f-4025-a982-6346c0bc0dea"  width="236" height="419">
+</p>
 
 
-6. **Search your feed/library**
+
+5. **Search your feed/library**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15dd7640-d030-4680-96c4-e006a6144de4"  width="236" height="419">
+</p>
+
 
 
 7. **Upload privately/Keep in Shelf** or **Upload publicly/Publish in Library**
