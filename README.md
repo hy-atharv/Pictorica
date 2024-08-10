@@ -149,6 +149,52 @@ These stories appear in the Shelf of each user, categorized as **Read Later** an
 
 ## General Features
 
+Pictorica offers most of the common features that any other social media app would offer.
+
+
+1. **Profile Page with Analytics**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2f028d7-fb97-4d8e-b785-d0faeda4f1c8"  width="236" height="419">
+</p>
+
+
+
+2. **Feed/Library**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f706f0cb-3f25-465e-99ca-67e5b1a27ea5"  width="236" height="419">
+</p>
+
+
+
+
+3. **Double Tap to Like**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa8a9695-315b-4aec-b79a-2b6760b5e54b"  width="236" height="419">
+</p>
+
+
+5. **Save to Read Later**
+
+
+6. **Search your feed/library**
+
+
+7. **Upload privately/Keep in Shelf** or **Upload publicly/Publish in Library**
+
+
+8. **Your Published Works Analytics and Performance**
+
+
+9. **Share this App**
+
+
+10. **Send Feedback**
+
+
+
 
 ## Gemini API Features
 
