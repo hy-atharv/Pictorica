@@ -55,6 +55,7 @@ Here's a Google Drive Folder link for the Pictorica Version 1.0.0 APK File for A
 4. [Cloud Storage Schema](https://github.com/hy-atharv/Pictorica/blob/main/README.md#cloud-storage-schema)
 5. [General Features](https://github.com/hy-atharv/Pictorica/blob/main/README.md#general-features)
 6. [Gemini API Features](https://github.com/hy-atharv/Pictorica/blob/main/README.md#gemini-api-features)
+7. [Future Scope](https://github.com/hy-atharv/Pictorica/blob/main/README.md#future-scope)
 
 
 
@@ -341,8 +342,15 @@ Gemini with large context window can analyze all the content in the Library and 
 For Reference, you can have a look at the [GemInsights.js](https://github.com/hy-atharv/Pictorica/blob/main/GeminiAI/GemInsights.js)
 
 
+## Future Scope
 
+While Pictorica is an exciting start, the App remains open to improvement and can creatively employ Gemini in several other aspects such as:
 
+- **Scenes Generation for Stories**
+- **Dynamic Existing Story Idea Detection during Story Creation**
+- **AR Support aligned with Gemini to identify related surroundings as per the story and give a new wholesome experience of Stories**
+
+**I welcome all suggestions, critiques, issues and PRs from our lovely community!**
 
 
 
